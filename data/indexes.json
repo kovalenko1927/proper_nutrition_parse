@@ -1,0 +1,2340 @@
+[
+    {
+        "Title": "Бренді",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "1",
+        "Callories": "225"
+    },
+    {
+        "Title": "Вермут",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "15,9",
+        "Callories": "155"
+    },
+    {
+        "Title": "Вино жінці",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0",
+        "Callories": "66"
+    },
+    {
+        "Title": "Вино напівсухе",
+        "Proteins": "0,3",
+        "Fats": "0",
+        "Carbohydrates": "2,5",
+        "Callories": "78"
+    },
+    {
+        "Title": "Вино десертні",
+        "Proteins": "0,5",
+        "Fats": "0",
+        "Carbohydrates": "20",
+        "Callories": "175"
+    },
+    {
+        "Title": "Вино полусолодке",
+        "Proteins": "0,2",
+        "Fats": "0",
+        "Carbohydrates": "5",
+        "Callories": "88"
+    },
+    {
+        "Title": "Вино столове",
+        "Proteins": "0,2",
+        "Fats": "0",
+        "Carbohydrates": "0,2",
+        "Callories": "67"
+    },
+    {
+        "Title": "Віскі",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0",
+        "Callories": "222"
+    },
+    {
+        "Title": "Горілка",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0,1",
+        "Callories": "234"
+    },
+    {
+        "Title": "Джин",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0",
+        "Callories": "223"
+    },
+    {
+        "Title": "Коньяк",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0,1",
+        "Callories": "240"
+    },
+    {
+        "Title": "Лікер",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "53",
+        "Callories": "344"
+    },
+    {
+        "Title": "Пиво 3,0%",
+        "Proteins": "0,6",
+        "Fats": "0",
+        "Carbohydrates": "3,5",
+        "Callories": "37"
+    },
+    {
+        "Title": "Пиво 4,5%",
+        "Proteins": "0,8",
+        "Fats": "0",
+        "Carbohydrates": "4,5",
+        "Callories": "45"
+    },
+    {
+        "Title": "Пиво темне",
+        "Proteins": "0,2",
+        "Fats": "0",
+        "Carbohydrates": "4",
+        "Callories": "39"
+    },
+    {
+        "Title": "Портвейн",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "13,8",
+        "Callories": "167"
+    },
+    {
+        "Title": "Ром",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0",
+        "Callories": "217"
+    },
+    {
+        "Title": "Шампанське",
+        "Proteins": "0,3",
+        "Fats": "0",
+        "Carbohydrates": "5,2",
+        "Callories": "88"
+    },
+    {
+        "Title": "Абрикосовий сік",
+        "Proteins": "0,9",
+        "Fats": "0,2",
+        "Carbohydrates": "9,2",
+        "Callories": "39"
+    },
+    {
+        "Title": "Ананасовий сік",
+        "Proteins": "0,2",
+        "Fats": "0,2",
+        "Carbohydrates": "11,4",
+        "Callories": "48"
+    },
+    {
+        "Title": "Апельсиновий сік",
+        "Proteins": "0,9",
+        "Fats": "0,1",
+        "Carbohydrates": "8,4",
+        "Callories": "36"
+    },
+    {
+        "Title": "Виноградний сік",
+        "Proteins": "0,3",
+        "Fats": "0",
+        "Carbohydrates": "14,5",
+        "Callories": "56"
+    },
+    {
+        "Title": "Вишневий сік",
+        "Proteins": "0,5",
+        "Fats": "0",
+        "Carbohydrates": "10,6",
+        "Callories": "49"
+    },
+    {
+        "Title": "Гранатовий сік",
+        "Proteins": "0,2",
+        "Fats": "0",
+        "Carbohydrates": "14",
+        "Callories": "58"
+    },
+    {
+        "Title": "Какао на молоці",
+        "Proteins": "24",
+        "Fats": "17",
+        "Carbohydrates": "33,1",
+        "Callories": "377"
+    },
+    {
+        "Title": "Квас хлібний",
+        "Proteins": "0,2",
+        "Fats": "0",
+        "Carbohydrates": "5",
+        "Callories": "26"
+    },
+    {
+        "Title": "Кола",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "10",
+        "Callories": "40"
+    },
+    {
+        "Title": "Кави з молоком",
+        "Proteins": "0,8",
+        "Fats": "1",
+        "Carbohydrates": "11",
+        "Callories": "56"
+    },
+    {
+        "Title": "Лімонад",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "6,1",
+        "Callories": "24"
+    },
+    {
+        "Title": "Лімонний сік",
+        "Proteins": "1",
+        "Fats": "0,1",
+        "Carbohydrates": "3,2",
+        "Callories": "18"
+    },
+    {
+        "Title": "Морквяний сік",
+        "Proteins": "1",
+        "Fats": "0,1",
+        "Carbohydrates": "6,5",
+        "Callories": "31"
+    },
+    {
+        "Title": "Персиковий сік",
+        "Proteins": "0,8",
+        "Fats": "0,1",
+        "Carbohydrates": "9,1",
+        "Callories": "37"
+    },
+    {
+        "Title": "Пиво безалкогольне",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "4,1",
+        "Callories": "22"
+    },
+    {
+        "Title": "Зелений чай",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0",
+        "Callories": "0"
+    },
+    {
+        "Title": "Чорний чай без цукру",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "0",
+        "Callories": "0"
+    },
+    {
+        "Title": "Чорний чай з лимоном та цукром (2 ч. л.)",
+        "Proteins": "0,8",
+        "Fats": "0,7",
+        "Carbohydrates": "8,3",
+        "Callories": "41"
+    },
+    {
+        "Title": "Чорний чай зі згущеним молоком (2 ч. л.)",
+        "Proteins": "2,4",
+        "Fats": "2,9",
+        "Carbohydrates": "19,1",
+        "Callories": "112"
+    },
+    {
+        "Title": "Єнергетичний напій",
+        "Proteins": "0",
+        "Fats": "0",
+        "Carbohydrates": "11,4",
+        "Callories": "47"
+    },
+    {
+        "Title": "Яблучний сік",
+        "Proteins": "0,5",
+        "Fats": "0,4",
+        "Carbohydrates": "9,7",
+        "Callories": "42"
+    },
+    {
+        "Title": "Гречана каша",
+        "Proteins": "4,5",
+        "Fats": "1,6",
+        "Carbohydrates": "27,4",
+        "Callories": "137"
+    },
+    {
+        "Title": "Кукурудзяні пластівці",
+        "Proteins": "6,5",
+        "Fats": "2,9",
+        "Carbohydrates": "83,8",
+        "Callories": "372"
+    },
+    {
+        "Title": "Манна каша",
+        "Proteins": "2,5",
+        "Fats": "0,3",
+        "Carbohydrates": "16,4",
+        "Callories": "77"
+    },
+    {
+        "Title": "Вівсяна каша",
+        "Proteins": "3,2",
+        "Fats": "1,8",
+        "Carbohydrates": "15,4",
+        "Callories": "93"
+    },
+    {
+        "Title": "Вівсяні пластівці",
+        "Proteins": "11,9",
+        "Fats": "7,5",
+        "Carbohydrates": "69,1",
+        "Callories": "358"
+    },
+    {
+        "Title": "Перлова каша",
+        "Proteins": "3,2",
+        "Fats": "0,5",
+        "Carbohydrates": "22,7",
+        "Callories": "102"
+    },
+    {
+        "Title": "Пшоняна каша",
+        "Proteins": "3",
+        "Fats": "0,8",
+        "Carbohydrates": "17,2",
+        "Callories": "92"
+    },
+    {
+        "Title": "Рисова каша",
+        "Proteins": "1,5",
+        "Fats": "0,2",
+        "Carbohydrates": "17,3",
+        "Callories": "79"
+    },
+    {
+        "Title": "Ячна каша",
+        "Proteins": "1,4",
+        "Fats": "0,3",
+        "Carbohydrates": "18,7",
+        "Callories": "84"
+    },
+    {
+        "Title": "Ячні пластівці",
+        "Proteins": "9,1",
+        "Fats": "3,2",
+        "Carbohydrates": "79,7",
+        "Callories": "345"
+    },
+    {
+        "Title": "Білі свіжі",
+        "Proteins": "3,3",
+        "Fats": "1,5",
+        "Carbohydrates": "2,4",
+        "Callories": "32"
+    },
+    {
+        "Title": "Білі сушені",
+        "Proteins": "23,8",
+        "Fats": "6,8",
+        "Carbohydrates": "30,2",
+        "Callories": "277"
+    },
+    {
+        "Title": "Вішанки свіжі",
+        "Proteins": "2,5",
+        "Fats": "0,5",
+        "Carbohydrates": "6,2",
+        "Callories": "34"
+    },
+    {
+        "Title": "Лисички свіжі",
+        "Proteins": "1,5",
+        "Fats": "1",
+        "Carbohydrates": "2,4",
+        "Callories": "22"
+    },
+    {
+        "Title": "Лисички сушені",
+        "Proteins": "22",
+        "Fats": "7,2",
+        "Carbohydrates": "25,4",
+        "Callories": "268"
+    },
+    {
+        "Title": "Маслюки свіжі",
+        "Proteins": "2,5",
+        "Fats": "0,7",
+        "Carbohydrates": "1,5",
+        "Callories": "12"
+    },
+    {
+        "Title": "Опеньки свіжі",
+        "Proteins": "2,4",
+        "Fats": "1",
+        "Carbohydrates": "2,5",
+        "Callories": "25"
+    },
+    {
+        "Title": "Підберезники свіжі",
+        "Proteins": "2,1",
+        "Fats": "1,2",
+        "Carbohydrates": "3,4",
+        "Callories": "30"
+    },
+    {
+        "Title": "Підберезники сушені",
+        "Proteins": "23,3",
+        "Fats": "9,5",
+        "Carbohydrates": "14,4",
+        "Callories": "231"
+    },
+    {
+        "Title": "Підосиновики свіжі",
+        "Proteins": "3,3",
+        "Fats": "0,4",
+        "Carbohydrates": "3,5",
+        "Callories": "31"
+    },
+    {
+        "Title": "Підосиновики сушені",
+        "Proteins": "35,2",
+        "Fats": "5,4",
+        "Carbohydrates": "33",
+        "Callories": "325"
+    },
+    {
+        "Title": "Рижики свіжі",
+        "Proteins": "1,9",
+        "Fats": "0,7",
+        "Carbohydrates": "2,3",
+        "Callories": "16"
+    },
+    {
+        "Title": "Сироїжки свіжі",
+        "Proteins": "1,6",
+        "Fats": "0,8",
+        "Carbohydrates": "1,7",
+        "Callories": "15"
+    },
+    {
+        "Title": "Печериці свіжі",
+        "Proteins": "4,3",
+        "Fats": "0,9",
+        "Carbohydrates": "1,4",
+        "Callories": "29"
+    },
+    {
+        "Title": "Ікра кети зерниста",
+        "Proteins": "31,6",
+        "Fats": "13,7",
+        "Carbohydrates": "0",
+        "Callories": "250"
+    },
+    {
+        "Title": "Ікра ляща",
+        "Proteins": "24,6",
+        "Fats": "4,9",
+        "Carbohydrates": "0",
+        "Callories": "144"
+    },
+    {
+        "Title": "Ікра мінтая",
+        "Proteins": "28,3",
+        "Fats": "1,8",
+        "Carbohydrates": "0",
+        "Callories": "127"
+    },
+    {
+        "Title": "Ікра осетрова зерниста",
+        "Proteins": "28,3",
+        "Fats": "9,6",
+        "Carbohydrates": "0",
+        "Callories": "201"
+    },
+    {
+        "Title": "Ікра осетрова пробійна",
+        "Proteins": "36,3",
+        "Fats": "10,1",
+        "Carbohydrates": "0",
+        "Callories": "235"
+    },
+    {
+        "Title": "Жир курячий",
+        "Proteins": "0",
+        "Fats": "99,7",
+        "Carbohydrates": "0",
+        "Callories": "896"
+    },
+    {
+        "Title": "Жир топлений свиний",
+        "Proteins": "0",
+        "Fats": "99,5",
+        "Carbohydrates": "0",
+        "Callories": "882"
+    },
+    {
+        "Title": "Маргарин вершковий",
+        "Proteins": "0,5",
+        "Fats": "82,3",
+        "Carbohydrates": "0",
+        "Callories": "746"
+    },
+    {
+        "Title": "Маргарин столовий молочний",
+        "Proteins": "0,5",
+        "Fats": "82",
+        "Carbohydrates": "0,9",
+        "Callories": "744"
+    },
+    {
+        "Title": "Майонез 67%",
+        "Proteins": "3,3",
+        "Fats": "67",
+        "Carbohydrates": "2,4",
+        "Callories": "624"
+    },
+    {
+        "Title": "Олія лляна",
+        "Proteins": "0",
+        "Fats": "99,8",
+        "Carbohydrates": "0",
+        "Callories": "898"
+    },
+    {
+        "Title": "Олія оливкова",
+        "Proteins": "0",
+        "Fats": "99,8",
+        "Carbohydrates": "0",
+        "Callories": "898"
+    },
+    {
+        "Title": "Олія соняшникова",
+        "Proteins": "0",
+        "Fats": "99,9",
+        "Carbohydrates": "0",
+        "Callories": "899"
+    },
+    {
+        "Title": "Масло вершкове 82,5%",
+        "Proteins": "0,5",
+        "Fats": "82,5",
+        "Carbohydrates": "1",
+        "Callories": "747"
+    },
+    {
+        "Title": "Масло топлене",
+        "Proteins": "0,4",
+        "Fats": "98,1",
+        "Carbohydrates": "0,5",
+        "Callories": "885"
+    },
+    {
+        "Title": "Йогурт 1.5%",
+        "Proteins": "4,3",
+        "Fats": "1,5",
+        "Carbohydrates": "8,4",
+        "Callories": "65"
+    },
+    {
+        "Title": "Йогурт 3.2%",
+        "Proteins": "5",
+        "Fats": "3,2",
+        "Carbohydrates": "8,9",
+        "Callories": "87"
+    },
+    {
+        "Title": "Кефір 0%",
+        "Proteins": "2,8",
+        "Fats": "0",
+        "Carbohydrates": "3,8",
+        "Callories": "29"
+    },
+    {
+        "Title": "Кефір 1%",
+        "Proteins": "2,8",
+        "Fats": "1",
+        "Carbohydrates": "4,0",
+        "Callories": "37"
+    },
+    {
+        "Title": "Кефір 2,5%",
+        "Proteins": "3",
+        "Fats": "2,5",
+        "Carbohydrates": "4,0",
+        "Callories": "51"
+    },
+    {
+        "Title": "Кефір 3,2%",
+        "Proteins": "3,2",
+        "Fats": "3,2",
+        "Carbohydrates": "4,1",
+        "Callories": "57"
+    },
+    {
+        "Title": "Молоко 0%",
+        "Proteins": "2,8",
+        "Fats": "0",
+        "Carbohydrates": "4,6",
+        "Callories": "34"
+    },
+    {
+        "Title": "Молоко 1%",
+        "Proteins": "2,8",
+        "Fats": "1",
+        "Carbohydrates": "4,6",
+        "Callories": "43"
+    },
+    {
+        "Title": "Молоко 2,5%",
+        "Proteins": "2,8",
+        "Fats": "2,5",
+        "Carbohydrates": "4,6",
+        "Callories": "53"
+    },
+    {
+        "Title": "Молоко 3,2%",
+        "Proteins": "2,8",
+        "Fats": "3,2",
+        "Carbohydrates": "4,6",
+        "Callories": "58"
+    },
+    {
+        "Title": "козяче Молоко сире",
+        "Proteins": "3,1",
+        "Fats": "4,2",
+        "Carbohydrates": "4,7",
+        "Callories": "71"
+    },
+    {
+        "Title": "Молоко коров’яче сире",
+        "Proteins": "3,2",
+        "Fats": "3,6",
+        "Carbohydrates": "4,7",
+        "Callories": "63"
+    },
+    {
+        "Title": "Молоко знежирене",
+        "Proteins": "2,1",
+        "Fats": "0,1",
+        "Carbohydrates": "4,5",
+        "Callories": "30"
+    },
+    {
+        "Title": "Молоко сухе незбиране",
+        "Proteins": "25,2",
+        "Fats": "25",
+        "Carbohydrates": "39,6",
+        "Callories": "477"
+    },
+    {
+        "Title": "Молоко згущене",
+        "Proteins": "7,3",
+        "Fats": "7,7",
+        "Carbohydrates": "9,7",
+        "Callories": "139"
+    },
+    {
+        "Title": "Кисле молоко 3,2%",
+        "Proteins": "2,9",
+        "Fats": "3,2",
+        "Carbohydrates": "4,0",
+        "Callories": "57"
+    },
+    {
+        "Title": "Ряжанка 2,5%",
+        "Proteins": "2,9",
+        "Fats": "2,5",
+        "Carbohydrates": "4,1",
+        "Callories": "53"
+    },
+    {
+        "Title": "Ряжанка 4,0%",
+        "Proteins": "2,9",
+        "Fats": "4",
+        "Carbohydrates": "4,1",
+        "Callories": "68"
+    },
+    {
+        "Title": "Вершки 10%",
+        "Proteins": "2,8",
+        "Fats": "10",
+        "Carbohydrates": "4,1",
+        "Callories": "121"
+    },
+    {
+        "Title": "Вершки 20%",
+        "Proteins": "2,8",
+        "Fats": "20",
+        "Carbohydrates": "3,9",
+        "Callories": "209"
+    },
+    {
+        "Title": "Сметана 10%",
+        "Proteins": "3",
+        "Fats": "10",
+        "Carbohydrates": "2,9",
+        "Callories": "118"
+    },
+    {
+        "Title": "Сметана 15%",
+        "Proteins": "3",
+        "Fats": "15",
+        "Carbohydrates": "2,9",
+        "Callories": "163"
+    },
+    {
+        "Title": "Сметана 20%",
+        "Proteins": "3",
+        "Fats": "20",
+        "Carbohydrates": "2,9",
+        "Callories": "208"
+    },
+    {
+        "Title": "Сирки з сирної маси",
+        "Proteins": "7,3",
+        "Fats": "23",
+        "Carbohydrates": "27,6",
+        "Callories": "344"
+    },
+    {
+        "Title": "Сир голландський",
+        "Proteins": "26,4",
+        "Fats": "26,5",
+        "Carbohydrates": "0",
+        "Callories": "352"
+    },
+    {
+        "Title": "Сир пошехонський",
+        "Proteins": "26,4",
+        "Fats": "26,3",
+        "Carbohydrates": "0",
+        "Callories": "348"
+    },
+    {
+        "Title": "Сир російський",
+        "Proteins": "24,1",
+        "Fats": "29,8",
+        "Carbohydrates": "0,4",
+        "Callories": "366"
+    },
+    {
+        "Title": "Сир сулугуні",
+        "Proteins": "20",
+        "Fats": "24,2",
+        "Carbohydrates": "0",
+        "Callories": "293"
+    },
+    {
+        "Title": "Сир жирний",
+        "Proteins": "14",
+        "Fats": "18",
+        "Carbohydrates": "1,9",
+        "Callories": "236"
+    },
+    {
+        "Title": "Сир нежирний",
+        "Proteins": "18,2",
+        "Fats": "0,6",
+        "Carbohydrates": "1,8",
+        "Callories": "89"
+    },
+    {
+        "Title": "Сир напівжирний",
+        "Proteins": "16,5",
+        "Fats": "9",
+        "Carbohydrates": "1,9",
+        "Callories": "156"
+    },
+    {
+        "Title": "Омлет",
+        "Proteins": "9,7",
+        "Fats": "15,5",
+        "Carbohydrates": "1,7",
+        "Callories": "181"
+    },
+    {
+        "Title": "Яйце куряче",
+        "Proteins": "12,7",
+        "Fats": "11,1",
+        "Carbohydrates": "0,6",
+        "Callories": "153"
+    },
+    {
+        "Title": "Яйце перепелине",
+        "Proteins": "11,9",
+        "Fats": "13,3",
+        "Carbohydrates": "0,8",
+        "Callories": "170"
+    },
+    {
+        "Title": "страусине Яйце",
+        "Proteins": "12,4",
+        "Fats": "11,5",
+        "Carbohydrates": "0,8",
+        "Callories": "118"
+    },
+    {
+        "Title": "качине Яйце",
+        "Proteins": "13,5",
+        "Fats": "14,1",
+        "Carbohydrates": "0,2",
+        "Callories": "176"
+    },
+    {
+        "Title": "Яєчний порошок",
+        "Proteins": "45,3",
+        "Fats": "37,3",
+        "Carbohydrates": "5,1",
+        "Callories": "545"
+    },
+    {
+        "Title": "Ковбаса варена Докторська",
+        "Proteins": "13,4",
+        "Fats": "22,9",
+        "Carbohydrates": "0",
+        "Callories": "257"
+    },
+    {
+        "Title": "Ковбаса варена Аматорська",
+        "Proteins": "12,5",
+        "Fats": "28,3",
+        "Carbohydrates": "0",
+        "Callories": "311"
+    },
+    {
+        "Title": "Ковбаса варена Молочна",
+        "Proteins": "11,1",
+        "Fats": "22,5",
+        "Carbohydrates": "0",
+        "Callories": "243"
+    },
+    {
+        "Title": "Ковбаса напівкопчена Аматорська",
+        "Proteins": "17,6",
+        "Fats": "39,1",
+        "Carbohydrates": "0",
+        "Callories": "428"
+    },
+    {
+        "Title": "Ковбаса напівкопчена Московська",
+        "Proteins": "19,1",
+        "Fats": "36,1",
+        "Carbohydrates": "0",
+        "Callories": "402"
+    },
+    {
+        "Title": "Ковбаса напівкопчена Сервелат",
+        "Proteins": "16,1",
+        "Fats": "40,2",
+        "Carbohydrates": "0",
+        "Callories": "423"
+    },
+    {
+        "Title": "Ковбаса сирокопчена Аматорська",
+        "Proteins": "20,6",
+        "Fats": "47,8",
+        "Carbohydrates": "0",
+        "Callories": "511"
+    },
+    {
+        "Title": "Ковбаса сирокопчена Московська",
+        "Proteins": "24,3",
+        "Fats": "41,6",
+        "Carbohydrates": "0",
+        "Callories": "476"
+    },
+    {
+        "Title": "Ковбаса сирокопчена Сервелат",
+        "Proteins": "24,1",
+        "Fats": "40,2",
+        "Carbohydrates": "0",
+        "Callories": "453"
+    },
+    {
+        "Title": "Ковбаски мисливські",
+        "Proteins": "27,1",
+        "Fats": "24,6",
+        "Carbohydrates": "0",
+        "Callories": "325"
+    },
+    {
+        "Title": "Кров’янка",
+        "Proteins": "10,6",
+        "Fats": "17,8",
+        "Carbohydrates": "14,5",
+        "Callories": "261"
+    },
+    {
+        "Title": "Салямі",
+        "Proteins": "21,3",
+        "Fats": "53,6",
+        "Carbohydrates": "1,1",
+        "Callories": "576"
+    },
+    {
+        "Title": "Сардельки Яловичі",
+        "Proteins": "11,1",
+        "Fats": "18,2",
+        "Carbohydrates": "1,6",
+        "Callories": "215"
+    },
+    {
+        "Title": "Сардельки Свинячі",
+        "Proteins": "10,1",
+        "Fats": "31,8",
+        "Carbohydrates": "1,7",
+        "Callories": "330"
+    },
+    {
+        "Title": "Сосиски Яловичі",
+        "Proteins": "10,3",
+        "Fats": "20,3",
+        "Carbohydrates": "0,9",
+        "Callories": "229"
+    },
+    {
+        "Title": "Курячі Сосиски",
+        "Proteins": "10,6",
+        "Fats": "22,1",
+        "Carbohydrates": "3,3",
+        "Callories": "242"
+    },
+    {
+        "Title": "Сосиски Аматорські",
+        "Proteins": "9,8",
+        "Fats": "30,1",
+        "Carbohydrates": "0,4",
+        "Callories": "318"
+    },
+    {
+        "Title": "Сосиски Молочні",
+        "Proteins": "11,3",
+        "Fats": "23,9",
+        "Carbohydrates": "1,1",
+        "Callories": "260"
+    },
+    {
+        "Title": "Свинячі Сосиски",
+        "Proteins": "9,2",
+        "Fats": "23,2",
+        "Carbohydrates": "4,5",
+        "Callories": "284"
+    },
+    {
+        "Title": "Баранина",
+        "Proteins": "16,2",
+        "Fats": "15,3",
+        "Carbohydrates": "0",
+        "Callories": "201"
+    },
+    {
+        "Title": "Баранячі Нирки",
+        "Proteins": "13,4",
+        "Fats": "2,6",
+        "Carbohydrates": "0",
+        "Callories": "78"
+    },
+    {
+        "Title": "Бараняча Печінка",
+        "Proteins": "18,9",
+        "Fats": "2,8",
+        "Carbohydrates": "0",
+        "Callories": "102"
+    },
+    {
+        "Title": "Бараняче Серце",
+        "Proteins": "13,6",
+        "Fats": "2,7",
+        "Carbohydrates": "0",
+        "Callories": "85"
+    },
+    {
+        "Title": "Яловичина",
+        "Proteins": "18,7",
+        "Fats": "12,6",
+        "Carbohydrates": "0",
+        "Callories": "191"
+    },
+    {
+        "Title": "Яловичі Мізки",
+        "Proteins": "9,3",
+        "Fats": "9,6",
+        "Carbohydrates": "0",
+        "Callories": "126"
+    },
+    {
+        "Title": "Яловича Печінка",
+        "Proteins": "17,6",
+        "Fats": "3,2",
+        "Carbohydrates": "0",
+        "Callories": "100"
+    },
+    {
+        "Title": "Яловичі Нирки",
+        "Proteins": "12,4",
+        "Fats": "1,9",
+        "Carbohydrates": "0",
+        "Callories": "67"
+    },
+    {
+        "Title": "Вим’я Яловиче",
+        "Proteins": "12,1",
+        "Fats": "13,8",
+        "Carbohydrates": "0",
+        "Callories": "176"
+    },
+    {
+        "Title": "Яловиче Серце",
+        "Proteins": "15,2",
+        "Fats": "3,1",
+        "Carbohydrates": "0",
+        "Callories": "89"
+    },
+    {
+        "Title": "Яловичий Язик",
+        "Proteins": "13,4",
+        "Fats": "12,1",
+        "Carbohydrates": "0",
+        "Callories": "160"
+    },
+    {
+        "Title": "Конина",
+        "Proteins": "20,3",
+        "Fats": "7,1",
+        "Carbohydrates": "0",
+        "Callories": "149"
+    },
+    {
+        "Title": "Кролик",
+        "Proteins": "20,6",
+        "Fats": "12,8",
+        "Carbohydrates": "0",
+        "Callories": "197"
+    },
+    {
+        "Title": "Свинина нежирна",
+        "Proteins": "16,3",
+        "Fats": "27,9",
+        "Carbohydrates": "0",
+        "Callories": "318"
+    },
+    {
+        "Title": "Свинина жирна",
+        "Proteins": "11,6",
+        "Fats": "49,1",
+        "Carbohydrates": "0",
+        "Callories": "484"
+    },
+    {
+        "Title": "Свинячі нирки",
+        "Proteins": "13,2",
+        "Fats": "3,2",
+        "Carbohydrates": "0",
+        "Callories": "84"
+    },
+    {
+        "Title": "Свиняча печінка",
+        "Proteins": "18,6",
+        "Fats": "3,5",
+        "Carbohydrates": "0",
+        "Callories": "105"
+    },
+    {
+        "Title": "Свиняче серце",
+        "Proteins": "15,2",
+        "Fats": "3,1",
+        "Carbohydrates": "0",
+        "Callories": "87"
+    },
+    {
+        "Title": "Свинячий язик",
+        "Proteins": "14,4",
+        "Fats": "16,5",
+        "Carbohydrates": "0",
+        "Callories": "203"
+    },
+    {
+        "Title": "Телятина",
+        "Proteins": "19,9",
+        "Fats": "1,1",
+        "Carbohydrates": "0",
+        "Callories": "91"
+    },
+    {
+        "Title": "Гусяче м’ясо",
+        "Proteins": "16,4",
+        "Fats": "33,1",
+        "Carbohydrates": "0",
+        "Callories": "359"
+    },
+    {
+        "Title": "Індичка",
+        "Proteins": "21,1",
+        "Fats": "12,3",
+        "Carbohydrates": "0,6",
+        "Callories": "192"
+    },
+    {
+        "Title": "Кури",
+        "Proteins": "20,4",
+        "Fats": "8,6",
+        "Carbohydrates": "0,8",
+        "Callories": "161"
+    },
+    {
+        "Title": "Курчата",
+        "Proteins": "18,5",
+        "Fats": "7,9",
+        "Carbohydrates": "0,5",
+        "Callories": "159"
+    },
+    {
+        "Title": "Качки",
+        "Proteins": "16,4",
+        "Fats": "61,3",
+        "Carbohydrates": "0",
+        "Callories": "348"
+    },
+    {
+        "Title": "Бички",
+        "Proteins": "12,7",
+        "Fats": "8,2",
+        "Carbohydrates": "5,1",
+        "Callories": "147"
+    },
+    {
+        "Title": "Горбуша",
+        "Proteins": "21,2",
+        "Fats": "7,1",
+        "Carbohydrates": "0",
+        "Callories": "151"
+    },
+    {
+        "Title": "Кальмар",
+        "Proteins": "18,2",
+        "Fats": "0,2",
+        "Carbohydrates": "0",
+        "Callories": "77"
+    },
+    {
+        "Title": "Камбала",
+        "Proteins": "16",
+        "Fats": "2,5",
+        "Carbohydrates": "0",
+        "Callories": "86"
+    },
+    {
+        "Title": "Карась",
+        "Proteins": "17,5",
+        "Fats": "1,6",
+        "Carbohydrates": "0",
+        "Callories": "84"
+    },
+    {
+        "Title": "Короп",
+        "Proteins": "16",
+        "Fats": "3,5",
+        "Carbohydrates": "0",
+        "Callories": "95"
+    },
+    {
+        "Title": "Кета",
+        "Proteins": "22,1",
+        "Fats": "5,8",
+        "Carbohydrates": "0",
+        "Callories": "138"
+    },
+    {
+        "Title": "Килька",
+        "Proteins": "14,3",
+        "Fats": "9,2",
+        "Carbohydrates": "0",
+        "Callories": "142"
+    },
+    {
+        "Title": "Корюшка",
+        "Proteins": "15,3",
+        "Fats": "3,3",
+        "Carbohydrates": "0",
+        "Callories": "93"
+    },
+    {
+        "Title": "Крабове м’ясо",
+        "Proteins": "16",
+        "Fats": "0,9",
+        "Carbohydrates": "0",
+        "Callories": "67"
+    },
+    {
+        "Title": "Крабові палички",
+        "Proteins": "17,9",
+        "Fats": "2,1",
+        "Carbohydrates": "0",
+        "Callories": "73"
+    },
+    {
+        "Title": "Краснопірка",
+        "Proteins": "18,5",
+        "Fats": "3,1",
+        "Carbohydrates": "0",
+        "Callories": "106"
+    },
+    {
+        "Title": "Креветка",
+        "Proteins": "18",
+        "Fats": "0,9",
+        "Carbohydrates": "0",
+        "Callories": "85"
+    },
+    {
+        "Title": "Крижана",
+        "Proteins": "15,6",
+        "Fats": "1,3",
+        "Carbohydrates": "0",
+        "Callories": "76"
+    },
+    {
+        "Title": "Лящ",
+        "Proteins": "17,2",
+        "Fats": "4,2",
+        "Carbohydrates": "0",
+        "Callories": "109"
+    },
+    {
+        "Title": "Лосось",
+        "Proteins": "19,2",
+        "Fats": "13,8",
+        "Carbohydrates": "0",
+        "Callories": "200"
+    },
+    {
+        "Title": "Макрель",
+        "Proteins": "20,2",
+        "Fats": "3,6",
+        "Carbohydrates": "0",
+        "Callories": "111"
+    },
+    {
+        "Title": "Мідії варені",
+        "Proteins": "9,7",
+        "Fats": "1,6",
+        "Carbohydrates": "0",
+        "Callories": "53"
+    },
+    {
+        "Title": "Минтай",
+        "Proteins": "15,7",
+        "Fats": "0,6",
+        "Carbohydrates": "0",
+        "Callories": "67"
+    },
+    {
+        "Title": "Мойва",
+        "Proteins": "13,1",
+        "Fats": "11,7",
+        "Carbohydrates": "0",
+        "Callories": "159"
+    },
+    {
+        "Title": "Навага",
+        "Proteins": "16,71",
+        "Fats": "1,3",
+        "Carbohydrates": "0",
+        "Callories": "78"
+    },
+    {
+        "Title": "Минь",
+        "Proteins": "18,6",
+        "Fats": "0,8",
+        "Carbohydrates": "0",
+        "Callories": "85"
+    },
+    {
+        "Title": "Окунь морський",
+        "Proteins": "17,4",
+        "Fats": "5,5",
+        "Carbohydrates": "0",
+        "Callories": "123"
+    },
+    {
+        "Title": "Окунь річковий",
+        "Proteins": "18,3",
+        "Fats": "0,7",
+        "Carbohydrates": "0",
+        "Callories": "80"
+    },
+    {
+        "Title": "Осетер",
+        "Proteins": "16,5",
+        "Fats": "10,5",
+        "Carbohydrates": "0",
+        "Callories": "161"
+    },
+    {
+        "Title": "Восьминіг",
+        "Proteins": "18,5",
+        "Fats": "0",
+        "Carbohydrates": "0",
+        "Callories": "74"
+    },
+    {
+        "Title": "Палтус",
+        "Proteins": "18,5",
+        "Fats": "3,2",
+        "Carbohydrates": "0",
+        "Callories": "106"
+    },
+    {
+        "Title": "Плотва",
+        "Proteins": "18,5",
+        "Fats": "0,4",
+        "Carbohydrates": "0",
+        "Callories": "108"
+    },
+    {
+        "Title": "Раки варені",
+        "Proteins": "20,3",
+        "Fats": "1,2",
+        "Carbohydrates": "1,1",
+        "Callories": "96"
+    },
+    {
+        "Title": "Сазан",
+        "Proteins": "18,1",
+        "Fats": "5,2",
+        "Carbohydrates": "0",
+        "Callories": "119"
+    },
+    {
+        "Title": "Сайра",
+        "Proteins": "18,3",
+        "Fats": "20,5",
+        "Carbohydrates": "0",
+        "Callories": "257"
+    },
+    {
+        "Title": "Салака",
+        "Proteins": "17,1",
+        "Fats": "5,8",
+        "Carbohydrates": "0",
+        "Callories": "124"
+    },
+    {
+        "Title": "Оселедець",
+        "Proteins": "17,3",
+        "Fats": "19,9",
+        "Carbohydrates": "0",
+        "Callories": "248"
+    },
+    {
+        "Title": "Сьомга",
+        "Proteins": "20,9",
+        "Fats": "15,3",
+        "Carbohydrates": "0",
+        "Callories": "222"
+    },
+    {
+        "Title": "Сиг",
+        "Proteins": "19",
+        "Fats": "7,3",
+        "Carbohydrates": "0",
+        "Callories": "141"
+    },
+    {
+        "Title": "Скумбрія",
+        "Proteins": "18",
+        "Fats": "9,5",
+        "Carbohydrates": "0",
+        "Callories": "158"
+    },
+    {
+        "Title": "Сом",
+        "Proteins": "16,7",
+        "Fats": "8,4",
+        "Carbohydrates": "0",
+        "Callories": "141"
+    },
+    {
+        "Title": "Ставрида",
+        "Proteins": "18",
+        "Fats": "5,3",
+        "Carbohydrates": "0",
+        "Callories": "119"
+    },
+    {
+        "Title": "Стерлядь",
+        "Proteins": "17,3",
+        "Fats": "6,3",
+        "Carbohydrates": "0",
+        "Callories": "126"
+    },
+    {
+        "Title": "Судак",
+        "Proteins": "19",
+        "Fats": "0,7",
+        "Carbohydrates": "0",
+        "Callories": "81"
+    },
+    {
+        "Title": "Тріска",
+        "Proteins": "17,7",
+        "Fats": "0,5",
+        "Carbohydrates": "0",
+        "Callories": "76"
+    },
+    {
+        "Title": "Тунець",
+        "Proteins": "21,7",
+        "Fats": "1,3",
+        "Carbohydrates": "0",
+        "Callories": "95"
+    },
+    {
+        "Title": "Вугільна риба",
+        "Proteins": "13,3",
+        "Fats": "11,4",
+        "Carbohydrates": "0",
+        "Callories": "153"
+    },
+    {
+        "Title": "Вугор морський",
+        "Proteins": "14,2",
+        "Fats": "30,7",
+        "Carbohydrates": "0",
+        "Callories": "331"
+    },
+    {
+        "Title": "Устриці",
+        "Proteins": "14,4",
+        "Fats": "0,3",
+        "Carbohydrates": "6,2",
+        "Callories": "91"
+    },
+    {
+        "Title": "Форель",
+        "Proteins": "19,6",
+        "Fats": "2,1",
+        "Carbohydrates": "0",
+        "Callories": "99"
+    },
+    {
+        "Title": "Хек",
+        "Proteins": "16,4",
+        "Fats": "2,3",
+        "Carbohydrates": "0",
+        "Callories": "84"
+    },
+    {
+        "Title": "Щука",
+        "Proteins": "18,2",
+        "Fats": "0,8",
+        "Carbohydrates": "0",
+        "Callories": "83"
+    },
+    {
+        "Title": "Мова морський",
+        "Proteins": "10,3",
+        "Fats": "5,3",
+        "Carbohydrates": "0",
+        "Callories": "89"
+    },
+    {
+        "Title": "Баклажани",
+        "Proteins": "0,6",
+        "Fats": "0,1",
+        "Carbohydrates": "7,5",
+        "Callories": "22"
+    },
+    {
+        "Title": "Боби",
+        "Proteins": "6,1",
+        "Fats": "0,1",
+        "Carbohydrates": "8,1",
+        "Callories": "59"
+    },
+    {
+        "Title": "Бруква",
+        "Proteins": "1,2",
+        "Fats": "0,1",
+        "Carbohydrates": "8,4",
+        "Callories": "38"
+    },
+    {
+        "Title": "Горошок зелений",
+        "Proteins": "5,4",
+        "Fats": "0,2",
+        "Carbohydrates": "13,6",
+        "Callories": "75"
+    },
+    {
+        "Title": "Кабачки",
+        "Proteins": "0,8",
+        "Fats": "0,3",
+        "Carbohydrates": "5,9",
+        "Callories": "30"
+    },
+    {
+        "Title": "Капуста білокачанна",
+        "Proteins": "1,9",
+        "Fats": "0",
+        "Carbohydrates": "5,7",
+        "Callories": "31"
+    },
+    {
+        "Title": "Капуста червонокачанна",
+        "Proteins": "1,9",
+        "Fats": "0",
+        "Carbohydrates": "6,3",
+        "Callories": "34"
+    },
+    {
+        "Title": "Капуста цвітна",
+        "Proteins": "2,7",
+        "Fats": "0",
+        "Carbohydrates": "5,2",
+        "Callories": "30"
+    },
+    {
+        "Title": "Картопля варена",
+        "Proteins": "2",
+        "Fats": "0,3",
+        "Carbohydrates": "16,5",
+        "Callories": "80"
+    },
+    {
+        "Title": "Картопля смажена",
+        "Proteins": "2,6",
+        "Fats": "9,7",
+        "Carbohydrates": "23,5",
+        "Callories": "198"
+    },
+    {
+        "Title": "Картопля молодий",
+        "Proteins": "2,2",
+        "Fats": "0,3",
+        "Carbohydrates": "12,5",
+        "Callories": "57"
+    },
+    {
+        "Title": "Цибуля зелена (перо)",
+        "Proteins": "1,4",
+        "Fats": "0",
+        "Carbohydrates": "4,2",
+        "Callories": "21"
+    },
+    {
+        "Title": "Цибуля порей",
+        "Proteins": "3,2",
+        "Fats": "0",
+        "Carbohydrates": "7,1",
+        "Callories": "38"
+    },
+    {
+        "Title": "Цибуля ріпчаста",
+        "Proteins": "1,6",
+        "Fats": "0",
+        "Carbohydrates": "9,3",
+        "Callories": "41"
+    },
+    {
+        "Title": "Моркву",
+        "Proteins": "1,3",
+        "Fats": "0,1",
+        "Carbohydrates": "6,3",
+        "Callories": "29"
+    },
+    {
+        "Title": "Огірки грунтові",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "3,1",
+        "Callories": "15"
+    },
+    {
+        "Title": "Огірки парникові",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "1,6",
+        "Callories": "9"
+    },
+    {
+        "Title": "Оливки",
+        "Proteins": "0,6",
+        "Fats": "10,2",
+        "Carbohydrates": "6,7",
+        "Callories": "111"
+    },
+    {
+        "Title": "Перець зелений солодкий",
+        "Proteins": "1,2",
+        "Fats": "0",
+        "Carbohydrates": "4,8",
+        "Callories": "24"
+    },
+    {
+        "Title": "Перець червоний солодкий",
+        "Proteins": "1,2",
+        "Fats": "0",
+        "Carbohydrates": "5,5",
+        "Callories": "26"
+    },
+    {
+        "Title": "Петрушка (зелень)",
+        "Proteins": "3,8",
+        "Fats": "0",
+        "Carbohydrates": "8",
+        "Callories": "45"
+    },
+    {
+        "Title": "Петрушка (корінь)",
+        "Proteins": "1,6",
+        "Fats": "0",
+        "Carbohydrates": "11,2",
+        "Callories": "48"
+    },
+    {
+        "Title": "Редис",
+        "Proteins": "1,5",
+        "Fats": "0",
+        "Carbohydrates": "4,2",
+        "Callories": "22"
+    },
+    {
+        "Title": "Редька",
+        "Proteins": "1,7",
+        "Fats": "0",
+        "Carbohydrates": "7,1",
+        "Callories": "33"
+    },
+    {
+        "Title": "Ріпа",
+        "Proteins": "1,6",
+        "Fats": "0",
+        "Carbohydrates": "5,8",
+        "Callories": "27"
+    },
+    {
+        "Title": "Салат",
+        "Proteins": "1,6",
+        "Fats": "0",
+        "Carbohydrates": "2,1",
+        "Callories": "15"
+    },
+    {
+        "Title": "Буряк",
+        "Proteins": "1,7",
+        "Fats": "0",
+        "Carbohydrates": "10,5",
+        "Callories": "46"
+    },
+    {
+        "Title": "Томати (ґрунтові)",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "4,1",
+        "Callories": "19"
+    },
+    {
+        "Title": "Томати (парникові)",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "2,6",
+        "Callories": "12"
+    },
+    {
+        "Title": "Квасоля",
+        "Proteins": "4,4",
+        "Fats": "0",
+        "Carbohydrates": "4,4",
+        "Callories": "36"
+    },
+    {
+        "Title": "Хрін",
+        "Proteins": "2,6",
+        "Fats": "0",
+        "Carbohydrates": "16,1",
+        "Callories": "70"
+    },
+    {
+        "Title": "Часник",
+        "Proteins": "6,6",
+        "Fats": "0",
+        "Carbohydrates": "21,1",
+        "Callories": "103"
+    },
+    {
+        "Title": "Шпинат",
+        "Proteins": "2,5",
+        "Fats": "0",
+        "Carbohydrates": "2,6",
+        "Callories": "22"
+    },
+    {
+        "Title": "Щавель",
+        "Proteins": "1,6",
+        "Fats": "0",
+        "Carbohydrates": "5,5",
+        "Callories": "29"
+    },
+    {
+        "Title": "Абрикоси",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "10,1",
+        "Callories": "44"
+    },
+    {
+        "Title": "Айва",
+        "Proteins": "0,6",
+        "Fats": "0",
+        "Carbohydrates": "8,7",
+        "Callories": "37"
+    },
+    {
+        "Title": "Алича",
+        "Proteins": "0,3",
+        "Fats": "0",
+        "Carbohydrates": "7,6",
+        "Callories": "35"
+    },
+    {
+        "Title": "Ананас",
+        "Proteins": "0,3",
+        "Fats": "0",
+        "Carbohydrates": "11,9",
+        "Callories": "49"
+    },
+    {
+        "Title": "Апельсин",
+        "Proteins": "0,8",
+        "Fats": "0",
+        "Carbohydrates": "8,6",
+        "Callories": "38"
+    },
+    {
+        "Title": "Банани",
+        "Proteins": "1,7",
+        "Fats": "0",
+        "Carbohydrates": "22,1",
+        "Callories": "87"
+    },
+    {
+        "Title": "Брусниця",
+        "Proteins": "0,6",
+        "Fats": "0",
+        "Carbohydrates": "8,8",
+        "Callories": "42"
+    },
+    {
+        "Title": "Виноград",
+        "Proteins": "0,5",
+        "Fats": "0",
+        "Carbohydrates": "17,8",
+        "Callories": "73"
+    },
+    {
+        "Title": "Вишня",
+        "Proteins": "0,9",
+        "Fats": "0",
+        "Carbohydrates": "11,1",
+        "Callories": "46"
+    },
+    {
+        "Title": "Гранат",
+        "Proteins": "0,9",
+        "Fats": "0",
+        "Carbohydrates": "11,9",
+        "Callories": "53"
+    },
+    {
+        "Title": "Грейпфрут",
+        "Proteins": "0,8",
+        "Fats": "0",
+        "Carbohydrates": "7,5",
+        "Callories": "37"
+    },
+    {
+        "Title": "Груша",
+        "Proteins": "0,5",
+        "Fats": "0",
+        "Carbohydrates": "10,6",
+        "Callories": "41"
+    },
+    {
+        "Title": "Лохина",
+        "Proteins": "1,1",
+        "Fats": "0",
+        "Carbohydrates": "7,4",
+        "Callories": "35"
+    },
+    {
+        "Title": "Диня",
+        "Proteins": "0,8",
+        "Fats": "0,3",
+        "Carbohydrates": "7,3",
+        "Callories": "34"
+    },
+    {
+        "Title": "Ожина",
+        "Proteins": "1,9",
+        "Fats": "0",
+        "Carbohydrates": "5,1",
+        "Callories": "31"
+    },
+    {
+        "Title": "Суниця",
+        "Proteins": "1,9",
+        "Fats": "0",
+        "Carbohydrates": "7,1",
+        "Callories": "40"
+    },
+    {
+        "Title": "Інжир",
+        "Proteins": "0,9",
+        "Fats": "0",
+        "Carbohydrates": "13,7",
+        "Callories": "57"
+    },
+    {
+        "Title": "Ківі",
+        "Proteins": "1",
+        "Fats": "0,7",
+        "Carbohydrates": "9,7",
+        "Callories": "46"
+    },
+    {
+        "Title": "Кизил",
+        "Proteins": "1,1",
+        "Fats": "0",
+        "Carbohydrates": "9,4",
+        "Callories": "42"
+    },
+    {
+        "Title": "Полуниця",
+        "Proteins": "0,6",
+        "Fats": "0,4",
+        "Carbohydrates": "7",
+        "Callories": "30"
+    },
+    {
+        "Title": "Журавлина",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "4,9",
+        "Callories": "27"
+    },
+    {
+        "Title": "Агрус",
+        "Proteins": "0,8",
+        "Fats": "0",
+        "Carbohydrates": "9,7",
+        "Callories": "43"
+    },
+    {
+        "Title": "Лимон",
+        "Proteins": "0,9",
+        "Fats": "0",
+        "Carbohydrates": "3,3",
+        "Callories": "30"
+    },
+    {
+        "Title": "Малина",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "9,2",
+        "Callories": "43"
+    },
+    {
+        "Title": "Мандарин",
+        "Proteins": "0,9",
+        "Fats": "0",
+        "Carbohydrates": "8,8",
+        "Callories": "39"
+    },
+    {
+        "Title": "Манго",
+        "Proteins": "0,6",
+        "Fats": "0,4",
+        "Carbohydrates": "11,8",
+        "Callories": "69"
+    },
+    {
+        "Title": "Морошка",
+        "Proteins": "0,9",
+        "Fats": "0",
+        "Carbohydrates": "6,9",
+        "Callories": "33"
+    },
+    {
+        "Title": "Обліпиха",
+        "Proteins": "0,8",
+        "Fats": "0",
+        "Carbohydrates": "5,6",
+        "Callories": "31"
+    },
+    {
+        "Title": "Персики",
+        "Proteins": "0,9",
+        "Fats": "0",
+        "Carbohydrates": "10,1",
+        "Callories": "42"
+    },
+    {
+        "Title": "Памело",
+        "Proteins": "0,6",
+        "Fats": "0,1",
+        "Carbohydrates": "6,1",
+        "Callories": "29"
+    },
+    {
+        "Title": "Горобина",
+        "Proteins": "1,6",
+        "Fats": "0",
+        "Carbohydrates": "12,2",
+        "Callories": "57"
+    },
+    {
+        "Title": "Зливу",
+        "Proteins": "0,8",
+        "Fats": "0",
+        "Carbohydrates": "9,7",
+        "Callories": "41"
+    },
+    {
+        "Title": "Смородина біла",
+        "Proteins": "0,4",
+        "Fats": "0",
+        "Carbohydrates": "8,5",
+        "Callories": "37"
+    },
+    {
+        "Title": "Смородина червона",
+        "Proteins": "0,6",
+        "Fats": "0",
+        "Carbohydrates": "8,7",
+        "Callories": "39"
+    },
+    {
+        "Title": "чорна Смородина",
+        "Proteins": "1,0",
+        "Fats": "0",
+        "Carbohydrates": "8,0",
+        "Callories": "38"
+    },
+    {
+        "Title": "Хурма",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "15,7",
+        "Callories": "61"
+    },
+    {
+        "Title": "Черешня",
+        "Proteins": "1,3",
+        "Fats": "0",
+        "Carbohydrates": "12,5",
+        "Callories": "54"
+    },
+    {
+        "Title": "Чорниця",
+        "Proteins": "1,2",
+        "Fats": "0",
+        "Carbohydrates": "8,8",
+        "Callories": "41"
+    },
+    {
+        "Title": "Шовковиця",
+        "Proteins": "0,6",
+        "Fats": "0",
+        "Carbohydrates": "12,5",
+        "Callories": "50"
+    },
+    {
+        "Title": "Шипшина свіжий",
+        "Proteins": "1,5",
+        "Fats": "0",
+        "Carbohydrates": "24,2",
+        "Callories": "106"
+    },
+    {
+        "Title": "Шипшина сушена",
+        "Proteins": "4,5",
+        "Fats": "0",
+        "Carbohydrates": "60,1",
+        "Callories": "259"
+    },
+    {
+        "Title": "Яблука",
+        "Proteins": "0,5",
+        "Fats": "0",
+        "Carbohydrates": "11,4",
+        "Callories": "48"
+    },
+    {
+        "Title": "Арахіс",
+        "Proteins": "26,2",
+        "Fats": "45,3",
+        "Carbohydrates": "9,9",
+        "Callories": "555"
+    },
+    {
+        "Title": "Волоський горіх",
+        "Proteins": "13,5",
+        "Fats": "61,5",
+        "Carbohydrates": "10,6",
+        "Callories": "662"
+    },
+    {
+        "Title": "Родзинки з кісточкою",
+        "Proteins": "1,7",
+        "Fats": "0",
+        "Carbohydrates": "70,7",
+        "Callories": "273"
+    },
+    {
+        "Title": "Родзинки, кишмиш",
+        "Proteins": "2,5",
+        "Fats": "0",
+        "Carbohydrates": "71,4",
+        "Callories": "285"
+    },
+    {
+        "Title": "Кешью",
+        "Proteins": "25,8",
+        "Fats": "54,3",
+        "Carbohydrates": "13,3",
+        "Callories": "647"
+    },
+    {
+        "Title": "Курага",
+        "Proteins": "5,7",
+        "Fats": "0",
+        "Carbohydrates": "65,3",
+        "Callories": "270"
+    },
+    {
+        "Title": "Мигдаль",
+        "Proteins": "18,3",
+        "Fats": "57,9",
+        "Carbohydrates": "13,4",
+        "Callories": "643"
+    },
+    {
+        "Title": "Насіння соняшнику",
+        "Proteins": "20,9",
+        "Fats": "52,5",
+        "Carbohydrates": "5,4",
+        "Callories": "582"
+    },
+    {
+        "Title": "Урюк",
+        "Proteins": "5,3",
+        "Fats": "0",
+        "Carbohydrates": "67,9",
+        "Callories": "279"
+    },
+    {
+        "Title": "Фініки",
+        "Proteins": "2,5",
+        "Fats": "0,4",
+        "Carbohydrates": "69,6",
+        "Callories": "277"
+    },
+    {
+        "Title": "Фісташки",
+        "Proteins": "20",
+        "Fats": "50,5",
+        "Carbohydrates": "7,3",
+        "Callories": "555"
+    },
+    {
+        "Title": "Фундук",
+        "Proteins": "16,3",
+        "Fats": "66,7",
+        "Carbohydrates": "9,8",
+        "Callories": "701"
+    },
+    {
+        "Title": "Чорнослив",
+        "Proteins": "2,7",
+        "Fats": "0",
+        "Carbohydrates": "65,3",
+        "Callories": "262"
+    },
+    {
+        "Title": "Яблука сушені",
+        "Proteins": "3,1",
+        "Fats": "0",
+        "Carbohydrates": "68,3",
+        "Callories": "275"
+    },
+    {
+        "Title": "Варення",
+        "Proteins": "0,4",
+        "Fats": "0,2",
+        "Carbohydrates": "74,5",
+        "Callories": "286"
+    },
+    {
+        "Title": "Вафлі",
+        "Proteins": "8,2",
+        "Fats": "19,8",
+        "Carbohydrates": "53,1",
+        "Callories": "425"
+    },
+    {
+        "Title": "Гематоген",
+        "Proteins": "6,2",
+        "Fats": "2,8",
+        "Carbohydrates": "75,5",
+        "Callories": "352"
+    },
+    {
+        "Title": "Драже фруктове",
+        "Proteins": "3,7",
+        "Fats": "10,3",
+        "Carbohydrates": "73,4",
+        "Callories": "388"
+    },
+    {
+        "Title": "Зефір",
+        "Proteins": "0,7",
+        "Fats": "0",
+        "Carbohydrates": "77,3",
+        "Callories": "295"
+    },
+    {
+        "Title": "Ірис",
+        "Proteins": "3,1",
+        "Fats": "7,7",
+        "Carbohydrates": "81,2",
+        "Callories": "384"
+    },
+    {
+        "Title": "Карамель",
+        "Proteins": "0",
+        "Fats": "0,2",
+        "Carbohydrates": "77,3",
+        "Callories": "291"
+    },
+    {
+        "Title": "Цукерки шоколадні",
+        "Proteins": "3,9",
+        "Fats": "39,7",
+        "Carbohydrates": "54,6",
+        "Callories": "576"
+    },
+    {
+        "Title": "Мармелад",
+        "Proteins": "0",
+        "Fats": "0,2",
+        "Carbohydrates": "77,1",
+        "Callories": "289"
+    },
+    {
+        "Title": "Мед",
+        "Proteins": "0,6",
+        "Fats": "0",
+        "Carbohydrates": "80,5",
+        "Callories": "312"
+    },
+    {
+        "Title": "Морозиво пломбір",
+        "Proteins": "3,6",
+        "Fats": "15,1",
+        "Carbohydrates": "20,5",
+        "Callories": "223"
+    },
+    {
+        "Title": "Морозиво вершкове",
+        "Proteins": "3,6",
+        "Fats": "10",
+        "Carbohydrates": "19,5",
+        "Callories": "182"
+    },
+    {
+        "Title": "Морозиво ескімо",
+        "Proteins": "3,6",
+        "Fats": "20",
+        "Carbohydrates": "19,5",
+        "Callories": "278"
+    },
+    {
+        "Title": "Пастила",
+        "Proteins": "0,6",
+        "Fats": "0",
+        "Carbohydrates": "80,1",
+        "Callories": "301"
+    },
+    {
+        "Title": "Печиво вівсяне",
+        "Proteins": "6,5",
+        "Fats": "14,1",
+        "Carbohydrates": "71,4",
+        "Callories": "430"
+    },
+    {
+        "Title": "Печиво здобне",
+        "Proteins": "10,5",
+        "Fats": "5,2",
+        "Carbohydrates": "76",
+        "Callories": "447"
+    },
+    {
+        "Title": "листкове Тістечко",
+        "Proteins": "5,7",
+        "Fats": "38,3",
+        "Carbohydrates": "46,8",
+        "Callories": "543"
+    },
+    {
+        "Title": "Тістечко бісквітне",
+        "Proteins": "4,9",
+        "Fats": "9,1",
+        "Carbohydrates": "84,1",
+        "Callories": "338"
+    },
+    {
+        "Title": "Пряники",
+        "Proteins": "4,4",
+        "Fats": "2,9",
+        "Carbohydrates": "77,1",
+        "Callories": "333"
+    },
+    {
+        "Title": "Цукор",
+        "Proteins": "0,2",
+        "Fats": "0",
+        "Carbohydrates": "99,6",
+        "Callories": "377"
+    },
+    {
+        "Title": "Халва соняшникова",
+        "Proteins": "11,4",
+        "Fats": "29,3",
+        "Carbohydrates": "54,6",
+        "Callories": "519"
+    },
+    {
+        "Title": "Шоколад темний",
+        "Proteins": "5,2",
+        "Fats": "35,6",
+        "Carbohydrates": "52,4",
+        "Callories": "546"
+    },
+    {
+        "Title": "Шоколад молочний",
+        "Proteins": "6,7",
+        "Fats": "35,6",
+        "Carbohydrates": "52,4",
+        "Callories": "552"
+    },
+    {
+        "Title": "Бублики",
+        "Proteins": "16,4",
+        "Fats": "1,1",
+        "Carbohydrates": "69,7",
+        "Callories": "342"
+    },
+    {
+        "Title": "Батон нарізний",
+        "Proteins": "9,4",
+        "Fats": "2,7",
+        "Carbohydrates": "50,7",
+        "Callories": "261"
+    },
+    {
+        "Title": "Бублики",
+        "Proteins": "16,4",
+        "Fats": "1,1",
+        "Carbohydrates": "69,7",
+        "Callories": "342"
+    },
+    {
+        "Title": "Булочка",
+        "Proteins": "7,4",
+        "Fats": "1,8",
+        "Carbohydrates": "43,7",
+        "Callories": "218"
+    },
+    {
+        "Title": "Лаваш вірменський",
+        "Proteins": "7,7",
+        "Fats": "1,1",
+        "Carbohydrates": "47,8",
+        "Callories": "239"
+    },
+    {
+        "Title": "Борошно пшеничне вищого сорту",
+        "Proteins": "10,4",
+        "Fats": "0,8",
+        "Carbohydrates": "74,5",
+        "Callories": "324"
+    },
+    {
+        "Title": "Борошно пшеничне I сорту",
+        "Proteins": "10,6",
+        "Fats": "1,4",
+        "Carbohydrates": "73,6",
+        "Callories": "329"
+    },
+    {
+        "Title": "Борошно пшеничне II сорту",
+        "Proteins": "11,6",
+        "Fats": "1,9",
+        "Carbohydrates": "70,7",
+        "Callories": "328"
+    },
+    {
+        "Title": "Борошно житнє",
+        "Proteins": "6,8",
+        "Fats": "1,2",
+        "Carbohydrates": "76,8",
+        "Callories": "321"
+    },
+    {
+        "Title": "Сушіння",
+        "Proteins": "11,1",
+        "Fats": "1",
+        "Carbohydrates": "73,2",
+        "Callories": "335"
+    },
+    {
+        "Title": "Сухарі пшеничні",
+        "Proteins": "11,6",
+        "Fats": "1,8",
+        "Carbohydrates": "72,1",
+        "Callories": "327"
+    },
+    {
+        "Title": "Хліб житній",
+        "Proteins": "4,7",
+        "Fats": "0,6",
+        "Carbohydrates": "49,5",
+        "Callories": "210"
+    },
+    {
+        "Title": "Хліб пшеничний з борошна I сорту",
+        "Proteins": "7,4",
+        "Fats": "2,2",
+        "Carbohydrates": "53",
+        "Callories": "246"
+    }
+]
